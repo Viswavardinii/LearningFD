@@ -1,4 +1,4 @@
-a=35
-b=15
+a=50
+b=50
 sum=a+b
-print("Sum of 35 and 15 is:",sum)
+print("Sum of 50 and 50 is:",sum)
